@@ -1,0 +1,5 @@
+ttkthemes==3.2.2
+tkcalendar==1.6.1
+tkinter
+matplotlib
+pandas 
